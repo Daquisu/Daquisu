@@ -12,4 +12,4 @@ Sometimes I contribute to open source. Some examples:
 
 I am currently employed, working as an Infrastructure Engineer.
 
-Previously, I've worked at Google and at Amazon.
+Previously, I've worked at Google (C++, Vehicle Routing Problem) and at Amazon (Python, AI for forecasting).
